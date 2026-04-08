@@ -1,6 +1,6 @@
 alert("Ola mundo");
 
-const numeroAleatorio = 69 
+const numeroAleatorio = 68 
 let chute = prompt("Mini game número secreto!!!")
 let tentativas = 1;
 console.log(numeroAleatorio);
